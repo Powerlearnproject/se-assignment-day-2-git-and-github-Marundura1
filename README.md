@@ -3,10 +3,10 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
-Repository: A repository (or repo) is a storage location for your project files, including all the versions of those files. 
+Repository: A repository (or repo) is a storage location for your project files, including all the versions of those files
 Commit: A commit is a snapshot of your files at a particular point in time. Each commit has a unique identifier (usually a hash) and includes a message describing the changes made.
 
-Branching: Branches allow you to diverge from the main line of development (often called the "main" or "master" branch) to work on features, fixes, or experiments in isolation. Once the work is complete, branches can be merged back into the main branch.
+Branching: Branches allow you to diverge from the main line of development (often called the "main" or "master" branch) to work on features, fixes, or experiments in isolation. Once the work is complete, branches can be merged back into the main branch
 
 Merging: Merging is the process of integrating changes from different branches.
 
